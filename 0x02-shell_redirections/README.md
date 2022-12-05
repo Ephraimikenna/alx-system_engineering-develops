@@ -1,2 +1,2 @@
 #!/bin/bash
- \third line
+7 files script
