@@ -1,2 +1,2 @@
 #!/bin/bash
-whatsnext
+hideword
