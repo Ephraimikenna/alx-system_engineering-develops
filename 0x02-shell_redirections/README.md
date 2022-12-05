@@ -1,1 +1,2 @@
-twofiles script
+#!/bin/bash
+lastlines script
