@@ -1,2 +1,2 @@
 #!/bin/bash
-lastlines script
+firstlines
