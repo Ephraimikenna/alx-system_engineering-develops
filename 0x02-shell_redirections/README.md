@@ -1,2 +1,2 @@
 #!/bin/bash
-iacte
+no more js
