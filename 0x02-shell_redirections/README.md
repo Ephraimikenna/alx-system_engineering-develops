@@ -1,1 +1,2 @@
-count word
+#!/bin/bash
+whatsnext
