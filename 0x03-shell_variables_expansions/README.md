@@ -1,2 +1,1 @@
-#!/bin/bash
-path
+3p
